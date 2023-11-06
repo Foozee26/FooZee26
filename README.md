@@ -1,7 +1,8 @@
-### FooZee
+## FooZee
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=molla202&show_icons=true&theme=gotham" alt="Molla Getasew" />
 
 <!--
-**Foozee26/FooZee26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FooZee26/FooZee26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
